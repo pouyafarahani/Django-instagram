@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 
 LOCALE_APPS = [
     'apps.home.apps.HomeConfig',
+    'apps.accounts.apps.AccountsConfig',
 ]
 
 # Application definition
